@@ -5,7 +5,5 @@ BEST Summer Course Liège 2019
 PyTorch
 
     You can see how to install in the following link:
-    ```
     https://pytorch.org/get-started/locally/ 
-    ```
     
